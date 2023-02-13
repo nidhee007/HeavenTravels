@@ -1,0 +1,12 @@
+#imgdiv{
+    width:1500px;
+    height: 1000px;
+    background-image: url(https://wallpapercave.com/wp/wp3500243.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    margin-top: 5px;
+}
+
+h1{
+    text-align: center;
+}
